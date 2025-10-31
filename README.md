@@ -54,5 +54,5 @@ open index.html
 | Documentation | 15% | ✅ |
 
 ## 🏁 Author
-**Vidushi Dwivedi (EdgeVision Developer)**  
-_“Rise, Wise, and Concise”_
+**Vidushi Dwivedi**  
+
